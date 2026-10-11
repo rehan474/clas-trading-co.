@@ -1,6 +1,6 @@
 {
   "slug": "sample-24",
-  "code": "SAMPLE-24",
+  "code": "CT-024",
   "name": {
     "ar": "ملابس كبار مختارة",
     "en": "Selected adult garments"
@@ -16,8 +16,8 @@
   "image": "/images/products/lamees-selected-adult-garments.webp",
   "isSample": true,
   "description": {
-    "ar": "سجل توضيحي لتخطيط الكتالوج، وليس تأكيداً لمنتج متوفر. الصورة مثال فقط.",
-    "en": "Demonstration catalog entry, not confirmed stock. Image is illustrative only."
+    "ar": "ملابس كبار مختارة ضمن تشكيلات ملابس الجملة. تواصل معنا لتأكيد التصميم المتاح والمقاسات والخامة والألوان وتوزيع القطع داخل الصندوق.",
+    "en": "Selected adult garments for wholesale collection enquiries. Contact us to confirm the available design, sizes, fabric, colours and pieces per box."
   },
   "fabric": {
     "ar": "تؤكد تفاصيل الخامة مع الفريق",

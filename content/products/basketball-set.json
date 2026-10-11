@@ -13,11 +13,11 @@
     "en": "Available age sizes confirmed on enquiry"
   },
   "sizes": [],
-  "image": "/images/products/basketball-set.jpg",
+  "image": "/images/products/clean-basketball-set.webp",
   "isSample": false,
   "description": {
-    "ar": "قطعة من صور التشكيلة المقدمة. للبيع بالجملة فقط؛ تواصل معنا لتأكيد المقاسات والخامات والتعبئة والتوفر.",
-    "en": "From the supplied collection photographs. Wholesale only; contact us to confirm sizing, fabric, packing and availability."
+    "ar": "طقم كرة سلة أسود وبرتقالي ضمن تشكيلات ملابس الجملة. تواصل معنا لتأكيد التصميم المتاح والمقاسات والخامة والألوان وتوزيع القطع داخل الصندوق.",
+    "en": "Black and orange basketball set for wholesale collection enquiries. Contact us to confirm the available design, sizes, fabric, colours and pieces per box."
   },
   "fabric": {
     "ar": "تؤكد تفاصيل الخامة مع الفريق",
@@ -27,5 +27,6 @@
     "ar": "اتبع ملصق العناية على القطعة",
     "en": "Follow the garment’s care label"
   },
-  "ageTags": []
+  "ageTags": [],
+  "generatedIllustration": true
 }
