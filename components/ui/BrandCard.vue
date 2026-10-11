@@ -1,2 +1,7 @@
-<script setup lang="ts">defineProps<{brand:any}>();const {ar,c}=useCopy();const lp=useLocalePath()
-</script><template><NuxtLink :to="lp('/brands/'+brand.slug)" class="brand-card reveal" :style="{background:brand.color}"><span class="brand-index">0{{brand.slug==='lamees'?1:brand.slug==='top-clas'?2:3}} /</span><img :src="brand.logo" :alt="brand.name" width="240" height="110" loading="lazy"/><p>{{brand.tagline[ar?'ar':'en']}}</p><div><span>{{c('مولود · S–M–L · ٢–٥ · ٦–١٢ سنة','Born Baby · S–M–L · 2–5 · 6–12 years')}}</span></div></NuxtLink></template>
+<script setup lang="ts">
+import products from '~/content/products.json'
+const props=defineProps<{brand:any}>()
+const {ar,c}=useCopy();const lp=useLocalePath()
+const image=computed(()=>products.find(p=>p.brand===props.brand.slug&&!p.isSample)?.image)
+</script>
+<template><NuxtLink :to="lp('/brands/'+brand.slug)" class="brand-editorial reveal"><div class="brand-editorial-photo" :style="{background:brand.color}"><img v-if="image" :src="image" :alt="c('تشكيلات '+brand.name,brand.name+' clothing collection')" width="620" height="760" loading="lazy"/><div v-else class="brand-typographic" aria-hidden="true">{{brand.name}}</div><span class="brand-photo-label">{{c('إحدى علامات كلاس','PART OF THE CLAS FAMILY')}}</span></div><div class="brand-editorial-copy"><img class="brand-editorial-logo" :src="brand.logo" :alt="brand.name" width="220" height="90" loading="lazy"/><h3>{{brand.tagline[ar?'ar':'en']}}</h3><p>{{c('مولود · S–M–L · ٢–٥ سنوات · ٦–١٢ سنة','Born Baby · S–M–L · 2–5 years · 6–12 years')}}</p><span class="brand-explore">{{c('اكتشف العلامة','Explore the brand')}}</span></div></NuxtLink></template>
