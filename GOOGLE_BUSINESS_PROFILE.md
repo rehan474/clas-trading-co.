@@ -6,7 +6,7 @@ Primary category: choose the closest available **Clothing wholesaler** category 
 
 ## English description
 
-Clas Trading Co. is a wholesale children's clothing business established in 2018, based in Al-Balad, Bab Sharif, Jeddah. Our owned brands Lamees, Top Clas and Baby 4 You cover newborn to 15 years, with adult garments occasionally available. We supply bulk buyers across Saudi Arabia. Visit our Jeddah office to view samples without an appointment, or contact us for current collections, packing details and a private wholesale quote. Shipping across Saudi Arabia and collection from Jeddah are available. Saturday–Thursday, 10 AM–8 PM; closed Friday.
+Clas Trading Co. is a wholesale children's clothing business established in 2018, based in Al-Balad, Bab Sharif, Jeddah. Our owned brands Lamees, Top Clas and Baby 4 You cover Born Baby, S–M–L, 2–5 years and 6–12 years, with adult garments occasionally available. We supply bulk buyers across Saudi Arabia. Visit our Jeddah office to view samples without an appointment, or contact us for current collections, packing details and a private wholesale quote. Shipping across Saudi Arabia and collection from Jeddah are available. Saturday–Thursday, 10 AM–8 PM; closed Friday.
 
 ## الوصف العربي
 

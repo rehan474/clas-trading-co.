@@ -1,46 +1,18 @@
 [
   {
-    "size": "Newborn",
+    "size": "Born Baby",
     "label": {
       "ar": "مولود",
-      "en": "Newborn"
+      "en": "Born Baby"
     },
-    "height": null,
-    "chest": null,
-    "waist": null,
     "status": "CONFIRM_WITH_SHOP"
   },
   {
-    "size": "S",
+    "size": "S–M–L",
     "label": {
-      "ar": "S",
-      "en": "S"
+      "ar": "S–M–L",
+      "en": "S–M–L"
     },
-    "height": null,
-    "chest": null,
-    "waist": null,
-    "status": "CONFIRM_WITH_SHOP"
-  },
-  {
-    "size": "M",
-    "label": {
-      "ar": "M",
-      "en": "M"
-    },
-    "height": null,
-    "chest": null,
-    "waist": null,
-    "status": "CONFIRM_WITH_SHOP"
-  },
-  {
-    "size": "L",
-    "label": {
-      "ar": "L",
-      "en": "L"
-    },
-    "height": null,
-    "chest": null,
-    "waist": null,
     "status": "CONFIRM_WITH_SHOP"
   },
   {
@@ -49,9 +21,6 @@
       "ar": "٢–٥ سنوات",
       "en": "2–5 years"
     },
-    "height": null,
-    "chest": null,
-    "waist": null,
     "status": "CONFIRM_WITH_SHOP"
   },
   {
@@ -60,9 +29,6 @@
       "ar": "٦–١٢ سنة",
       "en": "6–12 years"
     },
-    "height": null,
-    "chest": null,
-    "waist": null,
     "status": "CONFIRM_WITH_SHOP"
   }
 ]
