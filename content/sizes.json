@@ -1,83 +1,65 @@
 [
   {
     "size": "Newborn",
+    "label": {
+      "ar": "مولود",
+      "en": "Newborn"
+    },
     "height": null,
     "chest": null,
     "waist": null,
     "status": "CONFIRM_WITH_SHOP"
   },
   {
-    "size": "0–3M",
+    "size": "S",
+    "label": {
+      "ar": "S",
+      "en": "S"
+    },
     "height": null,
     "chest": null,
     "waist": null,
     "status": "CONFIRM_WITH_SHOP"
   },
   {
-    "size": "3–6M",
+    "size": "M",
+    "label": {
+      "ar": "M",
+      "en": "M"
+    },
     "height": null,
     "chest": null,
     "waist": null,
     "status": "CONFIRM_WITH_SHOP"
   },
   {
-    "size": "6–12M",
+    "size": "L",
+    "label": {
+      "ar": "L",
+      "en": "L"
+    },
     "height": null,
     "chest": null,
     "waist": null,
     "status": "CONFIRM_WITH_SHOP"
   },
   {
-    "size": "1–2Y",
+    "size": "2–5 years",
+    "label": {
+      "ar": "٢–٥ سنوات",
+      "en": "2–5 years"
+    },
     "height": null,
     "chest": null,
     "waist": null,
     "status": "CONFIRM_WITH_SHOP"
   },
   {
-    "size": "2–3Y",
-    "height": null,
-    "chest": null,
-    "waist": null,
-    "status": "CONFIRM_WITH_SHOP"
-  },
-  {
-    "size": "4–5Y",
-    "height": null,
-    "chest": null,
-    "waist": null,
-    "status": "CONFIRM_WITH_SHOP"
-  },
-  {
-    "size": "6–7Y",
-    "height": null,
-    "chest": null,
-    "waist": null,
-    "status": "CONFIRM_WITH_SHOP"
-  },
-  {
-    "size": "8–9Y",
-    "height": null,
-    "chest": null,
-    "waist": null,
-    "status": "CONFIRM_WITH_SHOP"
-  },
-  {
-    "size": "10–11Y",
-    "height": null,
-    "chest": null,
-    "waist": null,
-    "status": "CONFIRM_WITH_SHOP"
-  },
-  {
-    "size": "12–13Y",
-    "height": null,
-    "chest": null,
-    "waist": null,
-    "status": "CONFIRM_WITH_SHOP"
-  },
-  {
-    "size": "14–15Y",
+    "size": "6–12 years",
+    "label": {
+      "ar": "٦–١٢ سنة",
+      "en": "6–12 years"
+    },
     "height": null,
     "chest": null,
     "waist": null,

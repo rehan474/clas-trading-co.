@@ -9,10 +9,12 @@
   "type": "gift-sets",
   "gender": "unisex",
   "ageRange": {
-    "ar": "مثال توضيحي: من الولادة حتى سنة",
-    "en": "Illustrative: newborn–12 months"
+    "ar": "مولود",
+    "en": "Newborn"
   },
-  "sizes": [],
+  "sizes": [
+    "Newborn"
+  ],
   "image": "/images/products/lamees-la-12037.jpg",
   "isSample": true,
   "description": {
@@ -28,8 +30,6 @@
     "en": "Follow the garment’s care label"
   },
   "ageTags": [
-    "newborn",
-    "0-6m",
-    "6-12m"
+    "newborn"
   ]
 }

@@ -258,10 +258,12 @@
     "type": "rompers",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: من الولادة حتى سنة",
-      "en": "Illustrative: newborn–12 months"
+      "ar": "مولود",
+      "en": "Newborn"
     },
-    "sizes": [],
+    "sizes": [
+      "Newborn"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -277,9 +279,7 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "newborn",
-      "0-6m",
-      "6-12m"
+      "newborn"
     ]
   },
   {
@@ -293,10 +293,12 @@
     "type": "rompers",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: من الولادة حتى سنة",
-      "en": "Illustrative: newborn–12 months"
+      "ar": "مولود",
+      "en": "Newborn"
     },
-    "sizes": [],
+    "sizes": [
+      "Newborn"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -312,9 +314,7 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "newborn",
-      "0-6m",
-      "6-12m"
+      "newborn"
     ]
   },
   {
@@ -328,10 +328,13 @@
     "type": "pajamas",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: ١–١٥ سنة",
-      "en": "Illustrative: 1–15 years"
+      "ar": "٢–٥ سنوات / ٦–١٢ سنة",
+      "en": "2–5 years / 6–12 years"
     },
-    "sizes": [],
+    "sizes": [
+      "2–5 years",
+      "6–12 years"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -347,10 +350,8 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "1-3y",
-      "4-7y",
-      "8-11y",
-      "12-15y"
+      "2-5y",
+      "6-12y"
     ]
   },
   {
@@ -364,10 +365,13 @@
     "type": "dresses",
     "gender": "girls",
     "ageRange": {
-      "ar": "مثال توضيحي: ١–١٥ سنة",
-      "en": "Illustrative: 1–15 years"
+      "ar": "٢–٥ سنوات / ٦–١٢ سنة",
+      "en": "2–5 years / 6–12 years"
     },
-    "sizes": [],
+    "sizes": [
+      "2–5 years",
+      "6–12 years"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -383,10 +387,8 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "1-3y",
-      "4-7y",
-      "8-11y",
-      "12-15y"
+      "2-5y",
+      "6-12y"
     ]
   },
   {
@@ -400,10 +402,13 @@
     "type": "sets",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: ١–١٥ سنة",
-      "en": "Illustrative: 1–15 years"
+      "ar": "٢–٥ سنوات / ٦–١٢ سنة",
+      "en": "2–5 years / 6–12 years"
     },
-    "sizes": [],
+    "sizes": [
+      "2–5 years",
+      "6–12 years"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -419,10 +424,8 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "1-3y",
-      "4-7y",
-      "8-11y",
-      "12-15y"
+      "2-5y",
+      "6-12y"
     ]
   },
   {
@@ -436,10 +439,13 @@
     "type": "sets",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: ١–١٥ سنة",
-      "en": "Illustrative: 1–15 years"
+      "ar": "٢–٥ سنوات / ٦–١٢ سنة",
+      "en": "2–5 years / 6–12 years"
     },
-    "sizes": [],
+    "sizes": [
+      "2–5 years",
+      "6–12 years"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -455,10 +461,8 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "1-3y",
-      "4-7y",
-      "8-11y",
-      "12-15y"
+      "2-5y",
+      "6-12y"
     ]
   },
   {
@@ -472,10 +476,12 @@
     "type": "gift-sets",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: من الولادة حتى سنة",
-      "en": "Illustrative: newborn–12 months"
+      "ar": "مولود",
+      "en": "Newborn"
     },
-    "sizes": [],
+    "sizes": [
+      "Newborn"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -491,9 +497,7 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "newborn",
-      "0-6m",
-      "6-12m"
+      "newborn"
     ]
   },
   {
@@ -507,10 +511,13 @@
     "type": "winter",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: ١–١٥ سنة",
-      "en": "Illustrative: 1–15 years"
+      "ar": "٢–٥ سنوات / ٦–١٢ سنة",
+      "en": "2–5 years / 6–12 years"
     },
-    "sizes": [],
+    "sizes": [
+      "2–5 years",
+      "6–12 years"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -526,10 +533,8 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "1-3y",
-      "4-7y",
-      "8-11y",
-      "12-15y"
+      "2-5y",
+      "6-12y"
     ]
   },
   {
@@ -543,10 +548,12 @@
     "type": "rompers",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: من الولادة حتى سنة",
-      "en": "Illustrative: newborn–12 months"
+      "ar": "مولود",
+      "en": "Newborn"
     },
-    "sizes": [],
+    "sizes": [
+      "Newborn"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -562,9 +569,7 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "newborn",
-      "0-6m",
-      "6-12m"
+      "newborn"
     ]
   },
   {
@@ -578,10 +583,13 @@
     "type": "sets",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: ١–١٥ سنة",
-      "en": "Illustrative: 1–15 years"
+      "ar": "٢–٥ سنوات / ٦–١٢ سنة",
+      "en": "2–5 years / 6–12 years"
     },
-    "sizes": [],
+    "sizes": [
+      "2–5 years",
+      "6–12 years"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -597,10 +605,8 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "1-3y",
-      "4-7y",
-      "8-11y",
-      "12-15y"
+      "2-5y",
+      "6-12y"
     ]
   },
   {
@@ -614,10 +620,13 @@
     "type": "pajamas",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: ١–١٥ سنة",
-      "en": "Illustrative: 1–15 years"
+      "ar": "٢–٥ سنوات / ٦–١٢ سنة",
+      "en": "2–5 years / 6–12 years"
     },
-    "sizes": [],
+    "sizes": [
+      "2–5 years",
+      "6–12 years"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -633,10 +642,8 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "1-3y",
-      "4-7y",
-      "8-11y",
-      "12-15y"
+      "2-5y",
+      "6-12y"
     ]
   },
   {
@@ -650,10 +657,13 @@
     "type": "dresses",
     "gender": "girls",
     "ageRange": {
-      "ar": "مثال توضيحي: ١–١٥ سنة",
-      "en": "Illustrative: 1–15 years"
+      "ar": "٢–٥ سنوات / ٦–١٢ سنة",
+      "en": "2–5 years / 6–12 years"
     },
-    "sizes": [],
+    "sizes": [
+      "2–5 years",
+      "6–12 years"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -669,10 +679,8 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "1-3y",
-      "4-7y",
-      "8-11y",
-      "12-15y"
+      "2-5y",
+      "6-12y"
     ]
   },
   {
@@ -686,10 +694,13 @@
     "type": "sets",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: ١–١٥ سنة",
-      "en": "Illustrative: 1–15 years"
+      "ar": "٢–٥ سنوات / ٦–١٢ سنة",
+      "en": "2–5 years / 6–12 years"
     },
-    "sizes": [],
+    "sizes": [
+      "2–5 years",
+      "6–12 years"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -705,10 +716,8 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "1-3y",
-      "4-7y",
-      "8-11y",
-      "12-15y"
+      "2-5y",
+      "6-12y"
     ]
   },
   {
@@ -722,10 +731,12 @@
     "type": "rompers",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: من الولادة حتى سنة",
-      "en": "Illustrative: newborn–12 months"
+      "ar": "مولود",
+      "en": "Newborn"
     },
-    "sizes": [],
+    "sizes": [
+      "Newborn"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -741,9 +752,7 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "newborn",
-      "0-6m",
-      "6-12m"
+      "newborn"
     ]
   },
   {
@@ -757,10 +766,13 @@
     "type": "winter",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: ١–١٥ سنة",
-      "en": "Illustrative: 1–15 years"
+      "ar": "٢–٥ سنوات / ٦–١٢ سنة",
+      "en": "2–5 years / 6–12 years"
     },
-    "sizes": [],
+    "sizes": [
+      "2–5 years",
+      "6–12 years"
+    ],
     "image": "/images/products/lamees-la-12037.jpg",
     "isSample": true,
     "description": {
@@ -776,10 +788,8 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [
-      "1-3y",
-      "4-7y",
-      "8-11y",
-      "12-15y"
+      "2-5y",
+      "6-12y"
     ]
   },
   {
@@ -793,8 +803,8 @@
     "type": "adult",
     "gender": "unisex",
     "ageRange": {
-      "ar": "مثال توضيحي: كبار",
-      "en": "Illustrative: adults"
+      "ar": "المقاسات تؤكد عند الاستفسار",
+      "en": "Sizes confirmed on enquiry"
     },
     "sizes": [],
     "image": "/images/products/lamees-la-12037.jpg",

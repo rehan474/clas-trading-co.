@@ -16,7 +16,7 @@ const planned=posts.filter(p=>p.status==='planned')
 <h2><NuxtLink :to="lp('/blog/'+post.slug)">{{post.title[ar?'ar':'en']}}</NuxtLink></h2>
 <p>{{post.excerpt?.[ar?'ar':'en']}}</p>
 <p><time :datetime="post.date">{{post.date}}</time> · {{post.readingTime}} {{c('دقائق قراءة','min read')}}</p>
-<NuxtLink class="text-link" :to="lp('/blog/'+post.slug)">{{c('اقرأ المقال','Read article')}} <span aria-hidden="true">↗</span></NuxtLink>
+<NuxtLink class="text-link" :to="lp('/blog/'+post.slug)">{{c('اقرأ المقال','Read article')}} <span aria-hidden="true"></span></NuxtLink>
 </article>
 </div>
 <section class="section"><UiSectionHeader :title="c('قريباً في المدونة','Coming to the journal')" :text="c('موضوعات قيد الإعداد.','Topics we are preparing.')"/><ul><li v-for="post in planned" :key="post.slug">{{post.title[ar?'ar':'en']}}</li></ul></section>

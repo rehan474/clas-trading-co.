@@ -9,10 +9,13 @@
   "type": "pajamas",
   "gender": "unisex",
   "ageRange": {
-    "ar": "مثال توضيحي: ١–١٥ سنة",
-    "en": "Illustrative: 1–15 years"
+    "ar": "٢–٥ سنوات / ٦–١٢ سنة",
+    "en": "2–5 years / 6–12 years"
   },
-  "sizes": [],
+  "sizes": [
+    "2–5 years",
+    "6–12 years"
+  ],
   "image": "/images/products/lamees-la-12037.jpg",
   "isSample": true,
   "description": {
@@ -28,9 +31,7 @@
     "en": "Follow the garment’s care label"
   },
   "ageTags": [
-    "1-3y",
-    "4-7y",
-    "8-11y",
-    "12-15y"
+    "2-5y",
+    "6-12y"
   ]
 }
