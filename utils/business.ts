@@ -1,0 +1,3 @@
+export const business={phone:'+966 55 310 0383',digits:'966553100383',email:'clasintl676@gmail.com',maps:'https://maps.app.goo.gl/zKV7odzK2AK5wS2G9?g_st=ic',address:'Al-Balad, Bab Sharif, Jeddah, Saudi Arabia',lat:21.482394,lng:39.188728,shortAddress:'JACA6636',instagram:'https://www.instagram.com/clastradingco/',domain:'https://clastradingcompany.com'}
+export function whatsapp(message='مرحباً، أرغب في الاستفسار عن ملابس الأطفال بالجملة من شركة كلاس التجارية.'){return `https://wa.me/${business.digits}?text=${encodeURIComponent(message)}`}
+export function track(name:string,params:Record<string,unknown>={}){if(import.meta.client)(useNuxtApp() as any).$track?.(name,params)}

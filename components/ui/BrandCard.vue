@@ -1,0 +1,2 @@
+<script setup lang="ts">defineProps<{brand:any}>();const {ar,c}=useCopy();const lp=useLocalePath()
+</script><template><NuxtLink :to="lp('/brands/'+brand.slug)" class="brand-card reveal" :style="{background:brand.color}"><span class="brand-index">0{{brand.slug==='lamees'?1:brand.slug==='top-clas'?2:3}} /</span><img :src="brand.logo" :alt="brand.name" width="240" height="110" loading="lazy"/><p>{{brand.tagline[ar?'ar':'en']}}</p><div><span>{{c('المولود – ١٥ سنة','Newborn – 15 years')}}</span><span class="round-arrow">↗</span></div></NuxtLink></template>

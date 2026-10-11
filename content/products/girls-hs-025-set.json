@@ -1,0 +1,31 @@
+{
+  "slug": "girls-hs-025-set",
+  "code": "HS-025",
+  "name": {
+    "ar": "طقم بناتي أبيض وأسود",
+    "en": "Black and white girls’ set"
+  },
+  "brand": null,
+  "type": "sets",
+  "gender": "girls",
+  "ageRange": {
+    "ar": "المقاسات المتاحة تؤكد عند الاستفسار",
+    "en": "Available age sizes confirmed on enquiry"
+  },
+  "sizes": [],
+  "image": "/images/products/girls-hs-025-set.jpg",
+  "isSample": false,
+  "description": {
+    "ar": "قطعة من صور التشكيلة المقدمة. للبيع بالجملة فقط؛ تواصل معنا لتأكيد المقاسات والخامات والتعبئة والتوفر.",
+    "en": "From the supplied collection photographs. Wholesale only; contact us to confirm sizing, fabric, packing and availability."
+  },
+  "fabric": {
+    "ar": "تؤكد تفاصيل الخامة مع الفريق",
+    "en": "Fabric composition to be confirmed by our team"
+  },
+  "care": {
+    "ar": "اتبع ملصق العناية على القطعة",
+    "en": "Follow the garment’s care label"
+  },
+  "ageTags": []
+}

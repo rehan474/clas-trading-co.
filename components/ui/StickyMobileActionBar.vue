@@ -1,0 +1,2 @@
+<script setup lang="ts">import {business,whatsapp,track} from '~/utils/business';const {c}=useCopy()
+</script><template><div class="mobile-bar"><a :href="whatsapp()" @click="track('whatsapp_click')">WhatsApp ↗</a><a href="tel:+966553100383" @click="track('call_click')">{{c('اتصال','Call')}}</a><a :href="business.maps" @click="track('directions_click')">{{c('الاتجاهات','Directions')}}</a></div></template>

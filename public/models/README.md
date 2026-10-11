@@ -1,0 +1,1 @@
+Optional compressed GLB models may be added here. Current scene uses primitives and does not require downloads. Keep total GLB assets under 2 MB, compress with Draco/Meshopt and test render performance. Integrate new models only inside the lazy client scene, retain reduced-motion/Save-Data fallbacks and dispose geometry/material/texture resources.

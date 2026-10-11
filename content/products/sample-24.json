@@ -1,0 +1,31 @@
+{
+  "slug": "sample-24",
+  "code": "SAMPLE-24",
+  "name": {
+    "ar": "ملابس كبار مختارة",
+    "en": "Selected adult garments"
+  },
+  "brand": "lamees",
+  "type": "adult",
+  "gender": "unisex",
+  "ageRange": {
+    "ar": "مثال توضيحي: كبار",
+    "en": "Illustrative: adults"
+  },
+  "sizes": [],
+  "image": "/images/products/lamees-la-12037.jpg",
+  "isSample": true,
+  "description": {
+    "ar": "سجل توضيحي لتخطيط الكتالوج، وليس تأكيداً لمنتج متوفر. الصورة مثال فقط.",
+    "en": "Demonstration catalog entry, not confirmed stock. Image is illustrative only."
+  },
+  "fabric": {
+    "ar": "تؤكد تفاصيل الخامة مع الفريق",
+    "en": "Fabric composition to be confirmed by our team"
+  },
+  "care": {
+    "ar": "اتبع ملصق العناية على القطعة",
+    "en": "Follow the garment’s care label"
+  },
+  "ageTags": []
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "sample-15",
+  "code": "SAMPLE-15",
+  "name": {
+    "ar": "مجموعة هدايا مواليد",
+    "en": "Newborn gift selection"
+  },
+  "brand": "lamees",
+  "type": "gift-sets",
+  "gender": "unisex",
+  "ageRange": {
+    "ar": "مثال توضيحي: من الولادة حتى سنة",
+    "en": "Illustrative: newborn–12 months"
+  },
+  "sizes": [],
+  "image": "/images/products/lamees-la-12037.jpg",
+  "isSample": true,
+  "description": {
+    "ar": "سجل توضيحي لتخطيط الكتالوج، وليس تأكيداً لمنتج متوفر. الصورة مثال فقط.",
+    "en": "Demonstration catalog entry, not confirmed stock. Image is illustrative only."
+  },
+  "fabric": {
+    "ar": "تؤكد تفاصيل الخامة مع الفريق",
+    "en": "Fabric composition to be confirmed by our team"
+  },
+  "care": {
+    "ar": "اتبع ملصق العناية على القطعة",
+    "en": "Follow the garment’s care label"
+  },
+  "ageTags": [
+    "newborn",
+    "0-6m",
+    "6-12m"
+  ]
+}

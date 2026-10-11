@@ -1,0 +1,3 @@
+<script setup lang="ts">const {c}=useCopy();const {consent,ready,accept,decline}=useConsent();
+</script>
+<template><div v-if="ready&&consent===null" class="cookie" role="region" :aria-label="c('تفضيلات الخصوصية','Privacy preferences')"><p>{{c('نستخدم التحليلات فقط بموافقتك لتحسين الموقع. يمكنك رفضها ومواصلة التصفح.','We use analytics only with your permission to improve the website. You can decline and keep browsing.')}}</p><button class="button button-primary" @click="accept">{{c('قبول','Accept')}}</button><button class="button button-secondary" @click="decline">{{c('رفض','Decline')}}</button></div></template>

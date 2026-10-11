@@ -1,0 +1,82 @@
+[
+  {
+    "question": {
+      "ar": "هل البيع بالتجزئة متاح؟",
+      "en": "Do you sell individual pieces?"
+    },
+    "answer": {
+      "ar": "نبيع بالجملة بكميات كبيرة فقط، وليس بالتجزئة.",
+      "en": "We sell wholesale in bulk only, not individual retail pieces."
+    }
+  },
+  {
+    "question": {
+      "ar": "ما الحد الأدنى للطلب؟",
+      "en": "What is the minimum order?"
+    },
+    "answer": {
+      "ar": "الطلبات عادةً نحو ٥٠ صندوقاً أو نصف حاوية. يؤكد الفريق الحد الأدنى بحسب التشكيلة والتعبئة.",
+      "en": "Orders are typically around 50 boxes or half a container. Our team confirms the minimum for the collection and packing."
+    }
+  },
+  {
+    "question": {
+      "ar": "أين يقع المكتب؟",
+      "en": "Where is your office?"
+    },
+    "answer": {
+      "ar": "في البلد، باب شريف، جدة. العنوان المختصر JACA6636. راجع صفحة زورونا للاتجاهات.",
+      "en": "In Al-Balad, Bab Sharif, Jeddah. Short address: JACA6636. See Visit Us for directions."
+    }
+  },
+  {
+    "question": {
+      "ar": "هل أحتاج إلى موعد؟",
+      "en": "Do I need an appointment?"
+    },
+    "answer": {
+      "ar": "يمكن لتجار الجملة زيارة المكتب لمشاهدة العينات دون موعد، السبت إلى الخميس من ١٠ صباحاً حتى ٨ مساءً. الجمعة مغلق.",
+      "en": "Wholesale buyers can view samples without an appointment, Saturday–Thursday, 10 AM–8 PM. Closed Friday."
+    }
+  },
+  {
+    "question": {
+      "ar": "هل تتوفر خدمة الشحن؟",
+      "en": "Do you offer shipping?"
+    },
+    "answer": {
+      "ar": "نوفر الشحن داخل المملكة العربية السعودية والاستلام من مكتب جدة. تؤكد التكلفة والمدة عند الاستفسار.",
+      "en": "Shipping across Saudi Arabia and collection from our Jeddah office are available. Cost and timing are confirmed on enquiry."
+    }
+  },
+  {
+    "question": {
+      "ar": "ما الفئات العمرية المتوفرة؟",
+      "en": "Which ages do your brands cover?"
+    },
+    "answer": {
+      "ar": "علاماتنا تغطي من الولادة حتى ١٥ سنة، مع ملابس للكبار متاحة أحياناً. يؤكد توفر كل مقاس عند الطلب.",
+      "en": "Our brands cover newborn to 15 years, with adult garments occasionally available. Confirm each size when ordering."
+    }
+  },
+  {
+    "question": {
+      "ar": "هل يمكن الطلب عبر الموقع؟",
+      "en": "Can I order on the website?"
+    },
+    "answer": {
+      "ar": "الموقع يعرض التشكيلات. أرسل استفسار الجملة عبر واتساب للحصول على عرض وتأكيد التوفر.",
+      "en": "The website showcases collections. Send a wholesale enquiry on WhatsApp for a quote and availability."
+    }
+  },
+  {
+    "question": {
+      "ar": "هل العلامات ملك الشركة؟",
+      "en": "Do you own the brands?"
+    },
+    "answer": {
+      "ar": "نعم، Lamees وTop Clas وBaby 4 You علامات شركة كلاس التجارية الخاصة.",
+      "en": "Yes. Lamees, Top Clas and Baby 4 You are owned brands of Clas Trading Co."
+    }
+  }
+]

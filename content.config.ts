@@ -1,0 +1,1 @@
+import {defineContentConfig,defineCollection} from '@nuxt/content';import {z} from 'zod';const bilingual=z.object({ar:z.string(),en:z.string()});export default defineContentConfig({collections:{products:defineCollection({type:'data',source:'products/*.json',schema:z.object({slug:z.string(),code:z.string(),name:bilingual,image:z.string(),isSample:z.boolean()})})}})

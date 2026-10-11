@@ -1,0 +1,36 @@
+{
+  "slug": "sample-14",
+  "code": "SAMPLE-14",
+  "name": {
+    "ar": "طقم بنات صيفي",
+    "en": "Girls’ summer set"
+  },
+  "brand": "baby-4-you",
+  "type": "sets",
+  "gender": "unisex",
+  "ageRange": {
+    "ar": "مثال توضيحي: ١–١٥ سنة",
+    "en": "Illustrative: 1–15 years"
+  },
+  "sizes": [],
+  "image": "/images/products/lamees-la-12037.jpg",
+  "isSample": true,
+  "description": {
+    "ar": "سجل توضيحي لتخطيط الكتالوج، وليس تأكيداً لمنتج متوفر. الصورة مثال فقط.",
+    "en": "Demonstration catalog entry, not confirmed stock. Image is illustrative only."
+  },
+  "fabric": {
+    "ar": "تؤكد تفاصيل الخامة مع الفريق",
+    "en": "Fabric composition to be confirmed by our team"
+  },
+  "care": {
+    "ar": "اتبع ملصق العناية على القطعة",
+    "en": "Follow the garment’s care label"
+  },
+  "ageTags": [
+    "1-3y",
+    "4-7y",
+    "8-11y",
+    "12-15y"
+  ]
+}

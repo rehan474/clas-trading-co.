@@ -1,0 +1,1 @@
+import {defineStore} from 'pinia';export const useCatalogStore=defineStore('catalog',{state:()=>({lastViewed:[] as string[]}),actions:{view(slug:string){this.lastViewed=[slug,...this.lastViewed.filter(s=>s!==slug)].slice(0,8)}}})

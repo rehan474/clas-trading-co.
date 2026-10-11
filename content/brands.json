@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "lamees",
+    "name": "Lamees",
+    "logo": "/brand/logo-brand-a.png",
+    "color": "#DDF5E8",
+    "ageRange": {
+      "ar": "من الولادة حتى ١٥ سنة",
+      "en": "Newborn to 15 years"
+    },
+    "tagline": {
+      "ar": "تشكيلات أطفال لتجارة الجملة",
+      "en": "Children’s collections for wholesale"
+    },
+    "story": {
+      "ar": "Lamees إحدى علامات شركة كلاس التجارية الخاصة. نقدم تشكيلات للأطفال من الولادة حتى ١٥ سنة لتجار الجملة في المملكة. تواصل معنا لمعرفة التصاميم والكميات المتاحة.",
+      "en": "Lamees is an owned brand of Clas Trading Co. Our children’s collections serve newborn to 15 years for wholesale buyers across Saudi Arabia. Contact our team for current designs and bulk availability."
+    }
+  },
+  {
+    "slug": "top-clas",
+    "name": "Top Clas",
+    "logo": "/brand/logo-brand-b.svg",
+    "color": "#DCEBFF",
+    "ageRange": {
+      "ar": "من الولادة حتى ١٥ سنة",
+      "en": "Newborn to 15 years"
+    },
+    "tagline": {
+      "ar": "تشكيلات أطفال لتجارة الجملة",
+      "en": "Children’s collections for wholesale"
+    },
+    "story": {
+      "ar": "Top Clas إحدى علامات شركة كلاس التجارية الخاصة. نقدم تشكيلات للأطفال من الولادة حتى ١٥ سنة لتجار الجملة في المملكة. تواصل معنا لمعرفة التصاميم والكميات المتاحة.",
+      "en": "Top Clas is an owned brand of Clas Trading Co. Our children’s collections serve newborn to 15 years for wholesale buyers across Saudi Arabia. Contact our team for current designs and bulk availability."
+    }
+  },
+  {
+    "slug": "baby-4-you",
+    "name": "Baby 4 You",
+    "logo": "/brand/logo-brand-c.svg",
+    "color": "#FFE3E8",
+    "ageRange": {
+      "ar": "من الولادة حتى ١٥ سنة",
+      "en": "Newborn to 15 years"
+    },
+    "tagline": {
+      "ar": "تشكيلات أطفال لتجارة الجملة",
+      "en": "Children’s collections for wholesale"
+    },
+    "story": {
+      "ar": "Baby 4 You إحدى علامات شركة كلاس التجارية الخاصة. نقدم تشكيلات للأطفال من الولادة حتى ١٥ سنة لتجار الجملة في المملكة. تواصل معنا لمعرفة التصاميم والكميات المتاحة.",
+      "en": "Baby 4 You is an owned brand of Clas Trading Co. Our children’s collections serve newborn to 15 years for wholesale buyers across Saudi Arabia. Contact our team for current designs and bulk availability."
+    }
+  }
+]
