@@ -16,7 +16,7 @@
     "2–5 years",
     "6–12 years"
   ],
-  "image": "/images/products/lamees-la-12037.jpg",
+  "image": "/images/products/top-clas-star-print-pajamas.webp",
   "isSample": true,
   "description": {
     "ar": "سجل توضيحي لتخطيط الكتالوج، وليس تأكيداً لمنتج متوفر. الصورة مثال فقط.",
@@ -33,5 +33,6 @@
   "ageTags": [
     "2-5y",
     "6-12y"
-  ]
+  ],
+  "generatedIllustration": true
 }

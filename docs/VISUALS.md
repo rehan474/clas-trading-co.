@@ -5,3 +5,6 @@ The promotional hero uses the built-in image generation tool. Prompt: Create a p
 Pinterest flat-lay references: https://www.pinterest.com/shopwildsundays/flatlay-inspirations/
 Unsplash nursery search: https://unsplash.com/s/photos/nursery
 No Pinterest or Unsplash images were downloaded or used as inventory photos.
+
+## Completed illustrative catalogue imagery
+The 16 SAMPLE products now use AI-generated apparel visuals matched to their item names. Cards, detail pages and brand covers explicitly label these as illustrative, not verified stock. All eight original customer-supplied product photographs remain unchanged. The parent logo's burgundy SVG embeds the original PNG and selectively recolours its green pixels using an SVG filter; letterforms and transparency are preserved. The original logo PNG is retained.

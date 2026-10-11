@@ -15,7 +15,7 @@
   "sizes": [
     "Newborn"
   ],
-  "image": "/images/products/lamees-la-12037.jpg",
+  "image": "/images/products/baby-4-you-newborn-sleepsuit.webp",
   "isSample": true,
   "description": {
     "ar": "سجل توضيحي لتخطيط الكتالوج، وليس تأكيداً لمنتج متوفر. الصورة مثال فقط.",
@@ -31,5 +31,6 @@
   },
   "ageTags": [
     "newborn"
-  ]
+  ],
+  "generatedIllustration": true
 }
