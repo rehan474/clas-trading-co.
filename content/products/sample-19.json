@@ -34,5 +34,10 @@
     "2-5y",
     "6-12y"
   ],
-  "generatedIllustration": true
+  "generatedIllustration": true,
+  "modelImage": "/images/products/sample-19-outfit.webp",
+  "gallery": [
+    "/images/products/sample-19-outfit.webp",
+    "/images/products/top-clas-star-print-pajamas.webp"
+  ]
 }

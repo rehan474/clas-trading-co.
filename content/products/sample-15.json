@@ -32,5 +32,10 @@
   "ageTags": [
     "newborn"
   ],
-  "generatedIllustration": true
+  "generatedIllustration": true,
+  "modelImage": "/images/products/sample-15-outfit.webp",
+  "gallery": [
+    "/images/products/sample-15-outfit.webp",
+    "/images/products/lamees-newborn-gift-selection.webp"
+  ]
 }

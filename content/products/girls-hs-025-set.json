@@ -28,5 +28,10 @@
     "en": "Follow the garment’s care label"
   },
   "ageTags": [],
-  "generatedIllustration": true
+  "generatedIllustration": true,
+  "modelImage": "/images/products/girls-hs-025-set-outfit.webp",
+  "gallery": [
+    "/images/products/girls-hs-025-set-outfit.webp",
+    "/images/products/clean-black-white-girls-set.webp"
+  ]
 }

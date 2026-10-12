@@ -28,5 +28,10 @@
     "en": "Follow the garment’s care label"
   },
   "ageTags": [],
-  "generatedIllustration": true
+  "generatedIllustration": true,
+  "modelImage": "/images/products/cream-bow-set-outfit.webp",
+  "gallery": [
+    "/images/products/cream-bow-set-outfit.webp",
+    "/images/products/clean-cream-bow-set.webp"
+  ]
 }

@@ -32,5 +32,10 @@
   "ageTags": [
     "newborn"
   ],
-  "generatedIllustration": true
+  "generatedIllustration": true,
+  "modelImage": "/images/products/sample-09-outfit.webp",
+  "gallery": [
+    "/images/products/sample-09-outfit.webp",
+    "/images/products/lamees-everyday-newborn-set.webp"
+  ]
 }

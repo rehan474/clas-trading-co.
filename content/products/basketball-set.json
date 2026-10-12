@@ -28,5 +28,10 @@
     "en": "Follow the garment’s care label"
   },
   "ageTags": [],
-  "generatedIllustration": true
+  "generatedIllustration": true,
+  "modelImage": "/images/products/basketball-set-outfit.webp",
+  "gallery": [
+    "/images/products/basketball-set-outfit.webp",
+    "/images/products/clean-basketball-set.webp"
+  ]
 }

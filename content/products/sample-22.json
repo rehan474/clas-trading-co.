@@ -32,5 +32,10 @@
   "ageTags": [
     "newborn"
   ],
-  "generatedIllustration": true
+  "generatedIllustration": true,
+  "modelImage": "/images/products/sample-22-outfit.webp",
+  "gallery": [
+    "/images/products/sample-22-outfit.webp",
+    "/images/products/top-clas-newborn-essentials-selection.webp"
+  ]
 }

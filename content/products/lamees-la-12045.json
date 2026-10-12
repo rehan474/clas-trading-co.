@@ -16,8 +16,8 @@
   "image": "/images/products/clean-pink-bodysuit.webp",
   "isSample": false,
   "description": {
-    "ar": "بودي وردي ليتل لوف ضمن تشكيلات ملابس الجملة. تواصل معنا لتأكيد التصميم المتاح والمقاسات والخامة والألوان وتوزيع القطع داخل الصندوق.",
-    "en": "Pink Little Love bodysuit for wholesale collection enquiries. Contact us to confirm the available design, sizes, fabric, colours and pieces per box."
+    "ar": "بودي وردي بسيط ضمن تشكيلات ملابس الجملة. تواصل معنا لتأكيد التصميم المتاح والمقاسات والخامة والألوان وتوزيع القطع داخل الصندوق.",
+    "en": "Pink bodysuit for wholesale collection enquiries. Contact us to confirm the available design, sizes, fabric, colours and pieces per box."
   },
   "fabric": {
     "ar": "تؤكد تفاصيل الخامة مع الفريق",
@@ -28,5 +28,10 @@
     "en": "Follow the garment’s care label"
   },
   "ageTags": [],
-  "generatedIllustration": true
+  "generatedIllustration": true,
+  "modelImage": "/images/products/lamees-la-12045-outfit.webp",
+  "gallery": [
+    "/images/products/lamees-la-12045-outfit.webp",
+    "/images/products/clean-pink-bodysuit.webp"
+  ]
 }

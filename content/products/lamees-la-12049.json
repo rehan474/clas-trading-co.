@@ -28,5 +28,10 @@
     "en": "Follow the garment’s care label"
   },
   "ageTags": [],
-  "generatedIllustration": true
+  "generatedIllustration": true,
+  "modelImage": "/images/products/lamees-la-12049-outfit.webp",
+  "gallery": [
+    "/images/products/lamees-la-12049-outfit.webp",
+    "/images/products/clean-peach-moon-bodysuit.webp"
+  ]
 }

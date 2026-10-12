@@ -29,7 +29,12 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/lamees-la-12037-outfit.webp",
+    "gallery": [
+      "/images/products/lamees-la-12037-outfit.webp",
+      "/images/products/clean-white-eyelet-bodysuit.webp"
+    ]
   },
   {
     "slug": "lamees-la-12045",
@@ -49,8 +54,8 @@
     "image": "/images/products/clean-pink-bodysuit.webp",
     "isSample": false,
     "description": {
-      "ar": "بودي وردي ليتل لوف ضمن تشكيلات ملابس الجملة. تواصل معنا لتأكيد التصميم المتاح والمقاسات والخامة والألوان وتوزيع القطع داخل الصندوق.",
-      "en": "Pink Little Love bodysuit for wholesale collection enquiries. Contact us to confirm the available design, sizes, fabric, colours and pieces per box."
+      "ar": "بودي وردي بسيط ضمن تشكيلات ملابس الجملة. تواصل معنا لتأكيد التصميم المتاح والمقاسات والخامة والألوان وتوزيع القطع داخل الصندوق.",
+      "en": "Pink bodysuit for wholesale collection enquiries. Contact us to confirm the available design, sizes, fabric, colours and pieces per box."
     },
     "fabric": {
       "ar": "تؤكد تفاصيل الخامة مع الفريق",
@@ -61,7 +66,12 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/lamees-la-12045-outfit.webp",
+    "gallery": [
+      "/images/products/lamees-la-12045-outfit.webp",
+      "/images/products/clean-pink-bodysuit.webp"
+    ]
   },
   {
     "slug": "lamees-la-12046",
@@ -93,7 +103,12 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/lamees-la-12046-outfit.webp",
+    "gallery": [
+      "/images/products/lamees-la-12046-outfit.webp",
+      "/images/products/clean-balloon-bodysuit.webp"
+    ]
   },
   {
     "slug": "lamees-la-12049",
@@ -125,7 +140,12 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/lamees-la-12049-outfit.webp",
+    "gallery": [
+      "/images/products/lamees-la-12049-outfit.webp",
+      "/images/products/clean-peach-moon-bodysuit.webp"
+    ]
   },
   {
     "slug": "cream-bow-set",
@@ -157,7 +177,12 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/cream-bow-set-outfit.webp",
+    "gallery": [
+      "/images/products/cream-bow-set-outfit.webp",
+      "/images/products/clean-cream-bow-set.webp"
+    ]
   },
   {
     "slug": "basketball-set",
@@ -189,7 +214,12 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/basketball-set-outfit.webp",
+    "gallery": [
+      "/images/products/basketball-set-outfit.webp",
+      "/images/products/clean-basketball-set.webp"
+    ]
   },
   {
     "slug": "girls-hs-025-set",
@@ -221,7 +251,12 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/girls-hs-025-set-outfit.webp",
+    "gallery": [
+      "/images/products/girls-hs-025-set-outfit.webp",
+      "/images/products/clean-black-white-girls-set.webp"
+    ]
   },
   {
     "slug": "geometric-boys-set",
@@ -253,7 +288,12 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/geometric-boys-set-outfit.webp",
+    "gallery": [
+      "/images/products/geometric-boys-set-outfit.webp",
+      "/images/products/clean-geometric-boys-set.webp"
+    ]
   },
   {
     "slug": "sample-09",
@@ -289,7 +329,12 @@
     "ageTags": [
       "newborn"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-09-outfit.webp",
+    "gallery": [
+      "/images/products/sample-09-outfit.webp",
+      "/images/products/lamees-everyday-newborn-set.webp"
+    ]
   },
   {
     "slug": "sample-10",
@@ -325,7 +370,12 @@
     "ageTags": [
       "newborn"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-10-outfit.webp",
+    "gallery": [
+      "/images/products/sample-10-outfit.webp",
+      "/images/products/top-clas-long-sleeve-romper.webp"
+    ]
   },
   {
     "slug": "sample-11",
@@ -363,7 +413,12 @@
       "2-5y",
       "6-12y"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-11-outfit.webp",
+    "gallery": [
+      "/images/products/sample-11-outfit.webp",
+      "/images/products/baby-4-you-children-s-pajama-set.webp"
+    ]
   },
   {
     "slug": "sample-12",
@@ -401,7 +456,12 @@
       "2-5y",
       "6-12y"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-12-outfit.webp",
+    "gallery": [
+      "/images/products/sample-12-outfit.webp",
+      "/images/products/lamees-occasion-dress.webp"
+    ]
   },
   {
     "slug": "sample-13",
@@ -439,7 +499,12 @@
       "2-5y",
       "6-12y"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-13-outfit.webp",
+    "gallery": [
+      "/images/products/sample-13-outfit.webp",
+      "/images/products/top-clas-boys-summer-set.webp"
+    ]
   },
   {
     "slug": "sample-14",
@@ -477,7 +542,12 @@
       "2-5y",
       "6-12y"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-14-outfit.webp",
+    "gallery": [
+      "/images/products/sample-14-outfit.webp",
+      "/images/products/baby-4-you-girls-summer-set.webp"
+    ]
   },
   {
     "slug": "sample-15",
@@ -513,7 +583,12 @@
     "ageTags": [
       "newborn"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-15-outfit.webp",
+    "gallery": [
+      "/images/products/sample-15-outfit.webp",
+      "/images/products/lamees-newborn-gift-selection.webp"
+    ]
   },
   {
     "slug": "sample-16",
@@ -551,7 +626,12 @@
       "2-5y",
       "6-12y"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-16-outfit.webp",
+    "gallery": [
+      "/images/products/sample-16-outfit.webp",
+      "/images/products/top-clas-children-s-winter-set.webp"
+    ]
   },
   {
     "slug": "sample-17",
@@ -587,7 +667,12 @@
     "ageTags": [
       "newborn"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-17-outfit.webp",
+    "gallery": [
+      "/images/products/sample-17-outfit.webp",
+      "/images/products/baby-4-you-newborn-sleepsuit.webp"
+    ]
   },
   {
     "slug": "sample-18",
@@ -625,7 +710,12 @@
       "2-5y",
       "6-12y"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-18-outfit.webp",
+    "gallery": [
+      "/images/products/sample-18-outfit.webp",
+      "/images/products/lamees-everyday-two-piece-set.webp"
+    ]
   },
   {
     "slug": "sample-19",
@@ -663,7 +753,12 @@
       "2-5y",
       "6-12y"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-19-outfit.webp",
+    "gallery": [
+      "/images/products/sample-19-outfit.webp",
+      "/images/products/top-clas-star-print-pajamas.webp"
+    ]
   },
   {
     "slug": "sample-20",
@@ -701,7 +796,12 @@
       "2-5y",
       "6-12y"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-20-outfit.webp",
+    "gallery": [
+      "/images/products/sample-20-outfit.webp",
+      "/images/products/baby-4-you-everyday-dress.webp"
+    ]
   },
   {
     "slug": "sample-21",
@@ -739,7 +839,12 @@
       "2-5y",
       "6-12y"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-21-outfit.webp",
+    "gallery": [
+      "/images/products/sample-21-outfit.webp",
+      "/images/products/lamees-soft-color-children-s-set.webp"
+    ]
   },
   {
     "slug": "sample-22",
@@ -775,7 +880,12 @@
     "ageTags": [
       "newborn"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-22-outfit.webp",
+    "gallery": [
+      "/images/products/sample-22-outfit.webp",
+      "/images/products/top-clas-newborn-essentials-selection.webp"
+    ]
   },
   {
     "slug": "sample-23",
@@ -813,7 +923,12 @@
       "2-5y",
       "6-12y"
     ],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-23-outfit.webp",
+    "gallery": [
+      "/images/products/sample-23-outfit.webp",
+      "/images/products/baby-4-you-winter-two-piece-set.webp"
+    ]
   },
   {
     "slug": "sample-24",
@@ -845,6 +960,11 @@
       "en": "Follow the garment’s care label"
     },
     "ageTags": [],
-    "generatedIllustration": true
+    "generatedIllustration": true,
+    "modelImage": "/images/products/sample-24-outfit.webp",
+    "gallery": [
+      "/images/products/sample-24-outfit.webp",
+      "/images/products/lamees-selected-adult-garments.webp"
+    ]
   }
 ]
