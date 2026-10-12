@@ -9,7 +9,7 @@ useHead(()=>({script:[{type:'application/ld+json',innerHTML:JSON.stringify({'@co
 
 </script>
 <template>
-<div class="container section">
+<div class="container section page-content">
 <UiBreadcrumbs :title="post.title[ar?'ar':'en']"/>
 <header class="page-intro"><NuxtLink class="eyebrow" :to="lp('/blog')">{{c('المدونة','Journal')}}</NuxtLink><h1>{{post.title[ar?'ar':'en']}}</h1><p>{{post.author}} · <time :datetime="post.date">{{post.date}}</time> · {{post.readingTime}} {{c('دقائق قراءة','min read')}}</p></header>
 <article class="prose"><section v-for="section in post.body[ar?'ar':'en']" :key="section.heading"><h2>{{section.heading}}</h2><p>{{section.text}}</p></section></article>

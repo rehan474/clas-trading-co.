@@ -91,3 +91,35 @@ footer{margin-block-start:var(--section-space);padding-block-start:clamp(40px,5v
 /* Avoid doubled blank space where nested page sections meet the footer. */
 .container.section>.section:last-child{padding-block-end:0}
 .site-footer{margin-block-start:0}
+
+/* Final typography and compatibility pass. */
+.cta-band{background:linear-gradient(120deg,#e9dece,#f7efe3);color:var(--navy);border:1px solid #d7c6af;box-shadow:0 8px 28px rgba(48,33,43,.035);padding:clamp(28px,4vw,56px);gap:32px;flex-wrap:wrap}
+.cta-band>div{flex:1 1 420px;min-width:0}.cta-band h2{font-size:clamp(1.8rem,3vw,2.7rem);line-height:1.3;max-width:760px}
+.cta-band p{color:var(--muted);font-size:16px;line-height:1.8;margin-block:16px 0;max-width:640px}
+.cta-band .button{background:var(--accent);color:#fff;white-space:normal;text-align:center;flex:0 1 auto;max-width:100%;margin:0}
+.button{gap:10px;line-height:1.5;text-align:center;max-width:100%;white-space:normal}
+.button .ui-icon{margin-inline-end:0}
+.header nav a{min-height:44px;display:flex;align-items:center}
+.pill{min-height:44px;line-height:1.6;display:inline-flex;align-items:center;justify-content:center}
+.age-chips{flex-wrap:wrap;overflow:visible;gap:12px;padding:0}
+.trust-strip{line-height:1.7;font-size:12px}.trust-strip span:before{margin-inline-end:8px}
+.section-heading .button{position:static;margin-block-start:20px;white-space:normal}
+.prose h2{font-size:clamp(1.5rem,2.6vw,2.2rem);line-height:1.4;margin-block:36px 16px;letter-spacing:-.025em}
+.prose h3{margin-block:28px 12px}.prose p{margin-block:16px 24px;line-height:1.9;overflow-wrap:break-word}
+.prose li{margin-block:12px;line-height:1.8}.prose a{overflow-wrap:anywhere}
+.accordion summary{min-height:44px;align-items:center;line-height:1.7;gap:20px}.accordion summary span{flex-shrink:0}.accordion details p{font-size:16px;line-height:1.85;margin-block:16px 4px}
+.how-grid article>.eyebrow{font-size:12px;line-height:1.6;font-family:inherit;font-weight:800;color:var(--accent);letter-spacing:.1em;margin-block-end:16px}
+.size-groups{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}.size-group-card{border:1px solid #d9cbb8!important;padding:28px!important;display:block!important}.size-group-card h2{line-height:1.4}.size-group-card p{font-size:15px;line-height:1.85}
+.hero-copy>p{line-height:1.85}.signature-label,.hero-caption small{font-size:11px;line-height:1.6}.hero-footnote{line-height:1.8}
+.slider-controls button:after{content:'';width:10px;height:10px;border-radius:50%;background:#f2e8da;border:1px solid var(--accent)}
+.slider-controls button.active:after{background:var(--accent)}
+.blog-card{padding:24px}.blog-card h2{font-size:22px;line-height:1.5}.blog-card p{font-size:15px;line-height:1.85;margin-block:16px}.blog-card .text-link{display:inline-flex;align-items:center;min-height:44px}
+.instagram-card-caption{min-height:68px}.instagram-card-caption span{overflow-wrap:break-word}.instagram-card-caption .ui-icon{flex-shrink:0}
+.notice{border-start-start-radius:0;border-end-start-radius:0;border-start-end-radius:12px;border-end-end-radius:12px;line-height:1.85}
+.detail-photo{background:#f3ebdf}.detail-photo img{height:auto;max-height:720px;object-fit:contain}
+@media(max-width:760px){.how-grid article{display:block;grid-template-columns:none}.how-grid article h3{margin-block:16px 12px}.how-grid article p{margin-block:12px 0;grid-column:auto;font-size:15px}.size-groups{grid-template-columns:1fr}.hero-copy>p{font-size:16px}.product-card h3{font-size:14px;line-height:1.6}.cta-band{display:flex;flex-direction:column;align-items:flex-start;gap:24px}.cta-band>div{flex:auto}.cta-band .button{margin:0}.section-top .text-link{font-size:13px;min-height:44px;display:inline-flex;align-items:center}.section-heading h2{line-height:1.35}.topline{font-size:10px}.blog-card{padding:20px}.page-intro h1{font-size:clamp(2.25rem,8vw,3.5rem);line-height:1.3}.page-intro p{font-size:16px;line-height:1.85}.detail-info h1{font-size:clamp(2rem,8vw,3rem);line-height:1.35}.hero-caption{padding:16px 18px}.hero-caption strong{font-size:13px;line-height:1.7}}
+html[dir=rtl] :is(.prose h2,.section-heading h2,.cta-band h2,.page-intro h1,.detail-info h1){letter-spacing:0;line-height:1.6}
+@media(prefers-reduced-motion:reduce){.product-image-dots button span{transition:none}}
+.product-card h3 a{display:inline-flex;align-items:center;min-height:44px}
+@supports not (backdrop-filter:blur(12px)){.header{background:var(--cream)}.hero-caption{background:#faf3e8}}
+@media(prefers-reduced-motion:reduce){.reveal{opacity:1!important;transform:none!important}}
