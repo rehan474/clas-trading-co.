@@ -11,6 +11,6 @@ export default defineNuxtConfig({
  routeRules:{'/':{redirect:'/ar'},'/api/**':{prerender:false}},
  nitro:{prerender:{crawlLinks:true,failOnError:true,routes:['/ar','/en']}},
  image:{format:['avif','webp']},
- security:{headers:{contentSecurityPolicy:{'default-src':["'self'"],'img-src':["'self'",'data:','https:'],'script-src':["'self'","'unsafe-inline'",'https://challenges.cloudflare.com','https://www.googletagmanager.com','https://www.clarity.ms'],'style-src':["'self'","'unsafe-inline'",'https://fonts.googleapis.com'],'font-src':["'self'",'https://fonts.gstatic.com'],'connect-src':["'self'",'https://*.google-analytics.com','https://*.clarity.ms'],'frame-src':['https://www.google.com','https://challenges.cloudflare.com'],'worker-src':["'self'",'blob:']},permissionsPolicy:{camera:[],microphone:[],geolocation:[]}}},
+ security:{headers:{contentSecurityPolicy:{'default-src':["'self'"],'img-src':["'self'",'data:','https:'],'script-src':["'self'","'unsafe-inline'",'https://challenges.cloudflare.com','https://www.googletagmanager.com','https://www.clarity.ms'],'style-src':["'self'","'unsafe-inline'",'https://fonts.googleapis.com'],'font-src':["'self'",'https://fonts.gstatic.com'],'connect-src':["'self'",'https://*.google-analytics.com','https://*.clarity.ms'],'frame-src':['https://maps.google.com','https://www.google.com','https://challenges.cloudflare.com'],'worker-src':["'self'",'blob:']},permissionsPolicy:{camera:[],microphone:[],geolocation:[]}}},
  ogImage:{enabled:false}, linkChecker:{enabled:false}, typescript:{strict:true}
 })
